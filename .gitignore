@@ -1,0 +1,15 @@
+# Cache files
+*.pkl
+*.cache
+
+# Log files
+*.log
+
+# Configuration files with sensitive data
+credentials.json
+etag_cache.json
+
+# Environment files
+.venv/
+venv/
+.env
